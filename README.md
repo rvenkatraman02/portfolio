@@ -22,7 +22,7 @@ In a group of five, we analyzed flight delays for the top 10 US airlines and air
 
 **Technologies Used: Python; R**
 
-![Flights](/assets/img/airplane.png)
+<!--![Flights](/assets/img/airplane.png)-->
 
 
 ### [NBA Predictions](https://github.com/rvenkatraman02/NBA-Predictions)
@@ -30,7 +30,7 @@ I worked in a group of five to predict NBA spreads, totals, and offensive reboun
 
 **Technologies Used: R**
 
-![NBA](/assets/img/nba.png)
+<!--![NBA](/assets/img/nba.png)-->
 
 
 ### [Generative AI Chatbot](https://github.com/rvenkatraman02/Generative-AI-Chatbot)
@@ -38,7 +38,7 @@ I developed a Python-based chatbot using Generative AI to address employee right
 
 **Technologies Used: Python; Azure; LLMs**
 
-![Gen AI](/assets/img/gen_ai.png)
+<!--![Gen AI](/assets/img/gen_ai.png)-->
 
 
 ### [Bankrate Personal Loan Approval Optimization](https://github.com/rvenkatraman02/Loan-Approval-Predictions)
@@ -46,7 +46,7 @@ I optimized the matching process between customers seeking personal loans and le
 
 **Technologies Used: Python**
 
-![Bankrate](/assets/img/bankrate_loan.png)
+<!--![Bankrate](/assets/img/bankrate_loan.png)-->
 
 
 ### [Cornhole Data Analysis](https://github.com/rvenkatraman02/Cornhole-Data-Analysis)
@@ -54,4 +54,4 @@ I worked with a group of six to analyze cornhole success, focusing on toss abili
 
 **Technologies Used: R**
 
-![Cornhole](/assets/img/cornhole.png)
+<!--![Cornhole](/assets/img/cornhole.png)-->
