@@ -22,22 +22,46 @@ In a group of five, we analyzed flight delays for the top 10 US airlines and air
 
 **Technologies Used: Python; R**
 
+<div align="center">
+  <img src="/assets/img/airplane.png" alt="Flights" width="35%">
+</div>
+
+
 ### [NBA Predictions](https://github.com/rvenkatraman02/NBA-Predictions)
 I worked in a group of five to predict NBA spreads, totals, and offensive rebounds for the last six days of the 2023 regular season. Using data from the nbastatR package, we applied various models—linear, Poisson, ridge, and LASSO—and evaluated their performance based on RMSE. This project involved extensive data cleaning, modeling, and prediction, showcasing our proficiency in data science techniques and tools.
 
 **Technologies Used: R**
+
+<div align="center">
+  <img src="/assets/img/nba.png" alt="NBA" width="20%">
+</div>
+
 
 ### [Generative AI Chatbot](https://github.com/rvenkatraman02/Generative-AI-Chatbot)
 I developed a Python-based chatbot using Generative AI to address employee rights and benefits queries by processing HR documents. The system leveraged large language models and Retrieval Augmented Generation (RAG) to provide contextual responses. Key components included advanced data preparation for HR document processing, vector database integration for efficient data retrieval, and a strong focus on prompt engineering to enhance chatbot interactions.
 
 **Technologies Used: Python; Azure; LLMs**
 
+<div align="center">
+  <img src="/assets/img/gen_ai.png" alt="GenAI" width="50%">
+</div>
+
+
 ### [Bankrate Personal Loan Approval Optimization](https://github.com/rvenkatraman02/Loan-Approval-Predictions)
 I optimized the matching process between customers seeking personal loans and lending partners to improve approval rates and maximize revenue for Bankrate. Through exploratory data analysis, I identified key variables influencing loan approval and compared lender-specific approval rates. I developed a logistic model to predict which lender would yield the highest bounty returns for customers. I provided actionable recommendations to increase revenue per application by better-aligning customers with the right lender.
 
 **Technologies Used: Python**
 
+<div align="center">
+  <img src="/assets/img/bankrate_loan.png" alt="Bankrate" width="35%">
+</div>
+
+
 ### [Cornhole Data Analysis](https://github.com/rvenkatraman02/Cornhole-Data-Analysis)
 I worked with a group of six to analyze cornhole success, focusing on toss ability and board management. We manually tracked over 1,000 observations from the 2021 American Cornhole League World Championship, collecting metrics like toss outcomes, bag interactions, and hole blocking. Using this data, we developed advanced metrics to determine key factors for winning and assess the impact of blocking.
 
 **Technologies Used: R**
+
+<div align="center">
+  <img src="/assets/img/cornhole.png" alt="Cornhole" width="30%">
+</div>
