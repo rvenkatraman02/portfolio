@@ -22,6 +22,7 @@ In a group of five, we analyzed flight delays for the top 10 US airlines and air
 
 **Technologies Used: Python; R**
 
+![Flights](/assets/img/airplane.png)
 <div align="center">
   <img src="/assets/img/airplane.png" alt="Flights" width="35%">
 </div>
