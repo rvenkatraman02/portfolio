@@ -3,8 +3,8 @@
 #### Technical Skills: Python; SQL; R; Tableau; Azure; GCP; SAS
 
 ## Education			       		
-- M.S., Analytics	| North Carolina State University (_May 2025_)	 			        		
-- B.S., Computer Science | University of North Carolina - Chapel Hill (_May 2024_)
+- M.S., Analytics	| NC State University (_May 2025_)	 			        		
+- B.S., Computer Science | UNC - Chapel Hill (_May 2024_)
 
 ## Work Experience
 **Generative AI Engineer Intern @ Anika Systems (_Jan 2024 - May 2024_)**
