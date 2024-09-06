@@ -18,7 +18,7 @@
 
 ## Projects
 ### [FAA Flights Analysis](https://github.com/rvenkatraman02/FAA-Flights-Analysis)
-In a group of five, we analyzed flight delays for the top 10 US airlines and airports using data from April 2022 to March 2023 to identify key factors influencing departure delays. Using a LASSO regression model, we found that airlines, day of the week, and time of day were significant predictors. Airlines showed notable differences in delay patterns, with clusters based on characteristics. We recommended re-evaluating the IATA's 30-minute Minimum Connection Time guideline, suggesting adjustments to optimize passenger connections. This project demonstrated our analytical skills and strengthened our teamwork and communication abilities.
+In a group of five, we analyzed flight delays for the top 10 US airlines and airports using data from April 2022 to March 2023 to identify key factors influencing departure delays. Using a LASSO regression model, we found that airlines, day of the week, and time of day were significant predictors. Specifically, airlines showed notable differences in delay patterns, with clusters based on characteristics. This project demonstrated our analytical skills and strengthened our teamwork and communication abilities.
 
 **Technologies Used: Python; R**
 
