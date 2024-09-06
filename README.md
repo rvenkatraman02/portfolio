@@ -8,13 +8,13 @@
 
 ## Work Experience
 **Generative AI Engineer Intern @ Anika Systems (_Jan 2024 - May 2024_)**
-- Developed a multi-modal approach leveraging **Hugging Face** for semantic chunking and **GPT-3.5/GPT-4** for summarization in a MapReduce approach, augmented by **LangChain** for model development and enhanced document processing
+- Developed a multi-modal approach leveraging _Hugging Face_ for semantic chunking and _GPT-3.5/GPT-4_ for summarization in a MapReduce approach, augmented by _LangChain_ for model development and enhanced document processing
 
 **Data Science Intern @ Wayfair (_June 2023 - Aug 2023_)**
-- Developed a segmentation model using **Google BigQuery** and **Python (_pandas, scikit-learn_)** to classify accommodation and property management companies into markets based on their static attributes and shopping behaviors
+- Developed a segmentation model using _Google BigQuery_ and _Python (pandas, scikit-learn)_ to classify accommodation and property management companies into markets based on their static attributes and shopping behaviors
 
 **Data Science Intern @ SAS (_May 2022 - Aug 2022_)**
-- Created an automated **SAS** code flow for ancillary revenue reporting, enhancing data quality and generating 250+ benchmark reports for 50+ locations, enabling clients’ C-suite executives to understand demand and competitively price ancillary products
+- Created an automated _SAS_ code flow for ancillary revenue reporting, enhancing data quality and generating 250+ benchmark reports for 50+ locations, enabling clients’ C-suite executives to understand demand and competitively price ancillary products
 
 ## Projects
 ### [FAA Flights Analysis](https://github.com/rvenkatraman02/FAA-Flights-Analysis)
