@@ -20,9 +20,9 @@
 ### FAA Flights Analysis
 In a group of five, we analyzed flight delays for the top 10 US airlines and airports using data from April 2022 to March 2023 to identify key factors influencing departure delays. Using a LASSO regression model, we found that airlines, day of the week, and time of day were significant predictors. Specifically, airlines showed notable differences in delay patterns, with clusters based on characteristics. This project demonstrated our analytical skills and strengthened our teamwork and communication abilities.
 
-[Flights Analysis Repository](https://github.com/rvenkatraman02/FAA-Flights-Analysis)
-
 **Technologies Used: Python; R**
+
+[Flights Analysis Repository](https://github.com/rvenkatraman02/FAA-Flights-Analysis)
 
 <!--![Flights](/assets/img/airplane.png)-->
 
@@ -30,9 +30,9 @@ In a group of five, we analyzed flight delays for the top 10 US airlines and air
 ### NBA Predictions
 I worked in a group of five to predict NBA spreads, totals, and offensive rebounds for the last six days of the 2023 regular season. Using data from the nbastatR package, we applied various models—linear, Poisson, ridge, and LASSO—and evaluated their performance based on RMSE. This project involved extensive data cleaning, modeling, and prediction, showcasing our proficiency in data science techniques and tools.
 
-[NBA Predictions Repository](https://github.com/rvenkatraman02/NBA-Predictions)
-
 **Technologies Used: R**
+
+[NBA Predictions Repository](https://github.com/rvenkatraman02/NBA-Predictions)
 
 <!--![NBA](/assets/img/nba.png)-->
 
@@ -40,9 +40,9 @@ I worked in a group of five to predict NBA spreads, totals, and offensive reboun
 ### Generative AI Chatbot
 I developed a Python-based chatbot using Generative AI to address employee rights and benefits queries by processing HR documents. The system leveraged large language models and Retrieval Augmented Generation (RAG) to provide contextual responses. Key components included advanced data preparation for HR document processing, vector database integration for efficient data retrieval, and a strong focus on prompt engineering to enhance chatbot interactions.
 
-[Generative AI Repository](https://github.com/rvenkatraman02/Generative-AI-Chatbot)
-
 **Technologies Used: Python; Azure; LLMs**
+
+[Generative AI Repository](https://github.com/rvenkatraman02/Generative-AI-Chatbot)
 
 <!--![Gen AI](/assets/img/gen_ai.png)-->
 
@@ -50,9 +50,9 @@ I developed a Python-based chatbot using Generative AI to address employee right
 ### Bankrate Personal Loan Approval Optimization
 I optimized the matching process between customers seeking personal loans and lending partners to improve approval rates and maximize revenue for Bankrate. Through exploratory data analysis, I identified key variables influencing loan approval and compared lender-specific approval rates. I developed a logistic model to predict which lender would yield the highest bounty returns for customers. I provided actionable recommendations to increase revenue per application by better-aligning customers with the right lender.
 
-[Bankrate Optimzation Repository](https://github.com/rvenkatraman02/Generative-AI-Chatbot)
-
 **Technologies Used: Python**
+
+[Bankrate Optimzation Repository](https://github.com/rvenkatraman02/Generative-AI-Chatbot)
 
 <!--![Bankrate](/assets/img/bankrate_loan.png)-->
 
@@ -60,8 +60,8 @@ I optimized the matching process between customers seeking personal loans and le
 ### Cornhole Data Analysis
 I worked with a group of six to analyze cornhole success, focusing on toss ability and board management. We manually tracked over 1,000 observations from the 2021 American Cornhole League World Championship, collecting metrics like toss outcomes, bag interactions, and hole blocking. Using this data, we developed advanced metrics to determine key factors for winning and assess the impact of blocking.
 
-[Cornhole Analysis Repository](https://github.com/rvenkatraman02/Generative-AI-Chatbot)
-
 **Technologies Used: R**
+
+[Cornhole Analysis Repository](https://github.com/rvenkatraman02/Generative-AI-Chatbot)
 
 <!--![Cornhole](/assets/img/cornhole.png)-->
