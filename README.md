@@ -1,12 +1,16 @@
 # Data Scientist
 
-#### Technical Skills: Python; SQL; R; Tableau; Azure; GCP; SAS
+#### Technical Skills: Python; SQL; R; Tableau; Azure; GCP; SAS; Experimentation (A/B Testing)
 
 ## Education			       		
 - M.S., Analytics	| NC State University (_May 2025_)	 			        		
 - B.S., Computer Science | UNC - Chapel Hill (_May 2024_)
 
 ## Work Experience
+**Product Data Scientist @ Meta -- Instagram Relevance (_Jun 2025 - Present_)**
+- Led end-to-end analytical strategy for Instagram Reels client-side caching at Meta, designing 6+ multi-arm A/B tests across iOS and Android to isolate the causal impact of individual caching levers (availability, latency, ranking quality). Findings revealed super-additive interaction effects between cache layers and shifted the team's multi-quarter investment thesis from latency reduction to content freshness and ranking quality optimization — directly shaping half-level engineering priorities.
+- Conducted a multi-part analysis series on the relationship between loading screen duration and user engagement for a short-form video product serving billions of daily views. Established a quantitative link between loading time reductions and user abandonment, identifying session entry points as the highest-impact optimization target and directly influencing the team's product roadmap.
+
 **Generative AI Engineer Intern @ Anika Systems (_Jan 2024 - May 2024_)**
 - Developed a multi-modal approach leveraging _Hugging Face_ for semantic chunking and _GPT-3.5/GPT-4_ for summarization in a MapReduce approach, augmented by _LangChain_ for model development and enhanced document processing
 
@@ -17,6 +21,12 @@
 - Created an automated _SAS_ code flow for ancillary revenue reporting, enhancing data quality and generating 250+ benchmark reports for 50+ locations, enabling clients’ C-suite executives to understand demand and competitively price ancillary products
 
 ## Projects
+### NCJUA Predictive Modeling
+In a group of five, we partnered with the North Carolina Joint Underwriters Association to develop a predictive model for auditing insurance limits and identifying property valuation discrepancies across the state. Using policy and geospatial data, we built and compared random forest and gradient boosting models to improve prediction accuracy and uncover key drivers of property replacement costs. To communicate findings to a non-technical audience, we designed a Tableau dashboard for C-suite executives providing insights into home valuation characteristics by location.
+
+**Technologies Used: Python, R, Tableau**
+
+
 ### FAA Flights Analysis
 In a group of five, we analyzed flight delays for the top 10 US airlines and airports using data from April 2022 to March 2023 to identify key factors influencing departure delays. Using a LASSO regression model, we found that airlines, day of the week, and time of day were significant predictors. Specifically, airlines showed notable differences in delay patterns, with clusters based on characteristics. This project demonstrated our analytical skills and strengthened our teamwork and communication abilities.
 
