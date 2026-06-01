@@ -8,8 +8,8 @@
 
 ## Work Experience
 **Product Data Scientist @ Meta -- Instagram Relevance (_Jun 2025 - Present_)**
-- Led end-to-end analytical strategy for Instagram Reels client-side caching at Meta, designing 6+ multi-arm A/B tests across iOS and Android to isolate the causal impact of individual caching levers (availability, latency, ranking quality). Findings revealed super-additive interaction effects between cache layers and shifted the team's multi-quarter investment thesis from latency reduction to content freshness and ranking quality optimization — directly shaping half-level engineering priorities.
-- Conducted a multi-part analysis series on the relationship between loading screen duration and user engagement for a short-form video product serving billions of daily views. Established a quantitative link between loading time reductions and user abandonment, identifying session entry points as the highest-impact optimization target and directly influencing the team's product roadmap.
+- Led the analytical strategy for Instagram Reels client-side caching at Meta, designing 6+ multi-arm A/B tests across iOS and Android to isolate the causal impact of individual caching levers. Findings revealed super-additive interaction effects between cache layers, shifting the team's investment thesis from latency reduction to content freshness and ranking quality.
+- Conducted a multi-part analysis series on loading screen duration and user engagement for a short-form video product serving billions of daily views, establishing a quantitative link between loading time reductions and user abandonment — findings directly influenced the team's product roadmap.
 
 **Generative AI Engineer Intern @ Anika Systems (_Jan 2024 - May 2024_)**
 - Developed a multi-modal approach leveraging _Hugging Face_ for semantic chunking and _GPT-3.5/GPT-4_ for summarization in a MapReduce approach, augmented by _LangChain_ for model development and enhanced document processing
